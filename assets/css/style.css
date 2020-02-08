@@ -1,0 +1,57 @@
+body{
+
+  font-family: 'Roboto', sans-serif;
+}
+
+
+nav{
+  background-color: #28A745;
+}
+
+.card-deck{
+  margin:5%;
+}
+footer {
+  height:auto;
+  text-align: center;
+  margin: 5%;
+}
+
+footer img{
+  height: 30px;
+}
+
+footer p{
+  margin-top: 5%;
+}
+
+form{
+  background-color:  #28A745;
+  padding: 5%;
+}
+
+h3{
+  color: white;
+  text-align: center;
+}
+
+.form-control{
+  margin-top: 3%;
+}
+
+h6, span{
+  color: #707070;
+}
+h5{
+  color: #212529;
+}
+
+.cardfooter{
+border-top: 1px solid rgba(0,0,0,0.125);
+padding: 0.75rem 1.25rem;
+text-align: right;
+}
+.verdegrande{
+  color: #28A745;
+  font-size: x-large;
+}
